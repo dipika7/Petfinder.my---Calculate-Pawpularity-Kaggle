@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project aims to predict the Pawpularity scores of pet images by leveraging both metadata and image features. The analysis includes comprehensive Exploratory Data Analysis (EDA) and the development of a deep learning model using TensorFlow and Keras. The dataset is sourced from the PetFinder.my Pawpularity Contest, where my project achieved a leaderboard ranking of 3,247 out of 14,192 participants.
+This project aims to predict the Pawpularity scores of pet images by leveraging both metadata and image features. The analysis includes comprehensive Exploratory Data Analysis (EDA) and the development of a deep learning model using TensorFlow and Keras. The dataset is sourced from the PetFinder.my Pawpularity Contest, where my project achieved a leaderboard ranking of **3,247** out of **14,192** participants.
 
 ## Features
 
